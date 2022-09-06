@@ -11,7 +11,7 @@
     "auto_leaveMsg": true,    
     "autobio": true,
     "anticall": true,
-    "autorespond": false,
+    "autorespond": true,
     "autoblok212": true,
     "autoread": true,
     "gamewaktu": 90,
